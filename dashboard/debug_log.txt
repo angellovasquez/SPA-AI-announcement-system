@@ -1,0 +1,292 @@
+Array
+(
+    [years] => Array
+        (
+            [0] => 4th Year
+        )
+
+    [courses] => Array
+        (
+            [0] => Computer Science
+        )
+
+)
+
+Final Query: SELECT email, contact_number, status FROM members WHERE status = 'Active' AND ((year = 'Fourth year' AND course = 'BSCS'))
+Recipients Found: 1Received Data: Array
+(
+    [years] => Array
+        (
+            [0] => 3rd Year
+        )
+
+    [courses] => Array
+        (
+            [0] => Information Technology
+        )
+
+)
+
+SQL Query: SELECT email, contact_number, status FROM members 
+        WHERE status = 'Active' 
+        AND year IN (?) 
+        AND course IN (?)
+Recipients Found: 1
+Received Data: Array
+(
+    [years] => Array
+        (
+            [0] => 3rd Year
+        )
+
+    [courses] => Array
+        (
+            [0] => Information Technology
+        )
+
+)
+
+SQL Query: SELECT email, contact_number, status FROM members 
+        WHERE status = 'Active' 
+        AND year IN (?) 
+        AND course IN (?)
+Recipients Found: 1
+Received Data: Array
+(
+    [years] => Array
+        (
+            [0] => 3rd Year
+        )
+
+    [courses] => Array
+        (
+            [0] => Information Technology
+        )
+
+)
+
+SQL Query: SELECT email, contact_number, status FROM members 
+        WHERE status = 'Active' 
+        AND year IN (?) 
+        AND course IN (?)
+Recipients Found: 1
+Received Data: Array
+(
+    [years] => Array
+        (
+            [0] => 3rd Year
+        )
+
+    [courses] => Array
+        (
+            [0] => Information Technology
+        )
+
+)
+
+SQL Query: SELECT email, contact_number FROM members WHERE status = 'Active' AND year IN (?) AND course IN (?)
+Recipients Found: 1
+Received Data: Array
+(
+    [years] => Array
+        (
+            [0] => 3rd Year
+        )
+
+    [courses] => Array
+        (
+            [0] => Information Technology
+        )
+
+)
+
+SQL Query: SELECT email, contact_number FROM members WHERE status = 'Active' AND year IN (?) AND course IN (?)
+Recipients Found: 1
+Received Data: Array
+(
+    [years] => Array
+        (
+            [0] => 3rd Year
+            [1] => 4th Year
+        )
+
+    [courses] => Array
+        (
+            [0] => Information Technology
+        )
+
+)
+
+SQL Query: SELECT email, contact_number FROM members WHERE status = 'Active' AND year IN (?,?) AND course IN (?)
+Recipients Found: 1
+Received Data: Array
+(
+    [years] => Array
+        (
+            [0] => 3rd Year
+        )
+
+    [courses] => Array
+        (
+            [0] => Information Technology
+        )
+
+)
+
+SQL Query: SELECT email, contact_number, status FROM members 
+        WHERE status = 'Active' 
+        AND year IN (?) 
+        AND course IN (?)
+Recipients Found: 1
+Received Data: Array
+(
+    [years] => Array
+        (
+            [0] => 3rd Year
+        )
+
+    [courses] => Array
+        (
+            [0] => Information Technology
+        )
+
+)
+
+SQL Query: SELECT email, contact_number, status FROM members 
+        WHERE status = 'Active' 
+        AND year IN (?) 
+        AND course IN (?)
+Recipients Found: 1
+Received Data: Array
+(
+    [years] => Array
+        (
+            [0] => 3rd Year
+        )
+
+    [courses] => Array
+        (
+            [0] => Information Technology
+        )
+
+)
+
+SQL Query: SELECT email, contact_number, status FROM members 
+        WHERE status = 'Active' 
+        AND year IN (?) 
+        AND course IN (?)
+Recipients Found: 1
+Received Data: Array
+(
+    [years] => Array
+        (
+            [0] => 3rd Year
+        )
+
+    [courses] => Array
+        (
+            [0] => Information Technology
+        )
+
+)
+
+SQL Query: SELECT email, contact_number, status FROM members 
+        WHERE status = 'Active' 
+        AND year IN (?) 
+        AND course IN (?)
+Recipients Found: 1
+Received Data: Array
+(
+    [years] => Array
+        (
+            [0] => 3rd Year
+        )
+
+    [courses] => Array
+        (
+            [0] => Information Technology
+        )
+
+)
+
+SQL Query: SELECT email, contact_number, status FROM members 
+        WHERE status = 'Active' 
+        AND year IN (?) 
+        AND course IN (?)
+Recipients Found: 1
+Received Data: Array
+(
+    [years] => Array
+        (
+            [0] => 3rd Year
+        )
+
+    [courses] => Array
+        (
+            [0] => Information Technology
+        )
+
+)
+
+SQL Query: SELECT email, contact_number, status FROM members 
+        WHERE status = 'Active' 
+        AND year IN (?) 
+        AND course IN (?)
+Recipients Found: 1
+Received Data: Array
+(
+    [years] => Array
+        (
+            [0] => 3rd Year
+        )
+
+    [courses] => Array
+        (
+            [0] => Information Technology
+        )
+
+)
+
+SQL Query: SELECT email, contact_number, status FROM members 
+        WHERE status = 'Active' 
+        AND year IN (?) 
+        AND course IN (?)
+Recipients Found: 1
+Received Data: Array
+(
+    [years] => Array
+        (
+            [0] => 3rd Year
+        )
+
+    [courses] => Array
+        (
+            [0] => Information Technology
+        )
+
+)
+
+SQL Query: SELECT email, contact_number, status FROM members 
+        WHERE status = 'Active' 
+        AND year IN (?) 
+        AND course IN (?)
+Recipients Found: 1
+Received Data: Array
+(
+    [years] => Array
+        (
+            [0] => 3rd Year
+        )
+
+    [courses] => Array
+        (
+            [0] => Information Technology
+        )
+
+)
+
+SQL Query: SELECT email, contact_number, status FROM members 
+        WHERE status = 'Active' 
+        AND year IN (?) 
+        AND course IN (?)
+Recipients Found: 1
